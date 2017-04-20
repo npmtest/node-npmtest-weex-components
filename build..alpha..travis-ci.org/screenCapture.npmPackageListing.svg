@@ -1,21 +1,21 @@
 <svg height="286" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="286" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 18:53:20 +0000    57571 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 18:53:20 +0000    35147 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 18:53:20 +0000     1642 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 18:53:20 +0000      353 bytes  index.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 18:53:20 +0000      461 bytes  package.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 18:53:20 +0000     2806 bytes  src/wxc-button.we</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 18:53:20 +0000     2989 bytes  src/wxc-countdown.we</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 18:53:20 +0000      630 bytes  src/wxc-hn.we</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 18:53:20 +0000      826 bytes  src/wxc-list-item.we</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 18:53:20 +0000     1960 bytes  src/wxc-marquee.we</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 18:53:20 +0000     2859 bytes  src/wxc-navbar.we</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 18:53:20 +0000     1050 bytes  src/wxc-navpage.we</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 18:53:20 +0000     2480 bytes  src/wxc-panel.we</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 18:53:20 +0000     2090 bytes  src/wxc-tabbar.we</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 18:53:20 +0000     1306 bytes  src/wxc-tabitem.we</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 18:53:20 +0000      972 bytes  src/wxc-tip.we</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 18:54:20 +0000    57571 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 18:54:20 +0000    35147 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 18:54:20 +0000     1642 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 18:54:20 +0000      353 bytes  index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 18:54:20 +0000      461 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 18:54:20 +0000     2806 bytes  src/wxc-button.we</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 18:54:20 +0000     2989 bytes  src/wxc-countdown.we</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 18:54:20 +0000      630 bytes  src/wxc-hn.we</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 18:54:20 +0000      826 bytes  src/wxc-list-item.we</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 18:54:20 +0000     1960 bytes  src/wxc-marquee.we</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 18:54:20 +0000     2859 bytes  src/wxc-navbar.we</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 18:54:20 +0000     1050 bytes  src/wxc-navpage.we</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 18:54:20 +0000     2480 bytes  src/wxc-panel.we</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 18:54:20 +0000     2090 bytes  src/wxc-tabbar.we</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 18:54:20 +0000     1306 bytes  src/wxc-tabitem.we</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 18:54:20 +0000      972 bytes  src/wxc-tip.we</tspan>
 </text>
 </svg>
